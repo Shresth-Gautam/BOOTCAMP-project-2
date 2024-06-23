@@ -1,2 +1,2 @@
-# Bootcam-project-2
+# BOOTCAMP-project-2
 Image classification Project
