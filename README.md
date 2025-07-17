@@ -1,2 +1,2 @@
-# BOOTCAMP-project-2
-Image classification Project
+# BOOTCAMP PROJECT
+Image classification of Sports Celebrities Project
